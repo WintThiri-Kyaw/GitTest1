@@ -6,11 +6,12 @@
    <UUID>e7fedd0a-2e2d-4747-8acc-2c56d60d9c09</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.5.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.5.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\kbz.user\git\GitTest1\GitTest1.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
